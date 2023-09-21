@@ -1,0 +1,56 @@
+baseURL = "//hardware.cameronwalker.nz/"
+title = "CameronW - Hardware"
+author = "CameronW"
+copyright = "This work is licensed under a Creative Commons Attribution-NoDerivatives 4.0 International License.."
+languageCode = "en"
+DefaultContentLanguage = "en"
+enableInlineShortcodes = "true"
+theme = "sk1"
+themesDir = "themes"
+appendPort = "80"
+
+
+[menu]
+
+  [[menu.main]]
+    identifier = "about"
+    name = "About"
+    url = "/about/"
+    weight = 10
+
+[permalinks]
+    post = "/:year-:month-:filename/"
+
+
+
+[privacy]
+
+  [privacy.vimeo]
+    disabled = false
+    simple = true
+
+  [privacy.twitter]
+    disabled = false
+    enableDNT = true
+    simple = true
+
+  [privacy.instagram]
+    disabled = false
+    simple = true
+
+  [privacy.youtube]
+    disabled = false
+    privacyEnhanced = true
+
+[services]
+
+  [services.instagram]
+    disableInlineCSS = true
+
+  [services.twitter]
+    disableInlineCSS = true
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true

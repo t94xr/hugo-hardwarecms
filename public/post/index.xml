@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on CameronW - Hardware</title>
+    <link>//hardware.cameronwalker.nz/post/</link>
+    <description>Recent content in Posts on CameronW - Hardware</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>This work is licensed under a Creative Commons Attribution-NoDerivatives 4.0 International License..</copyright>
+    <lastBuildDate>Tue, 19 Sep 2023 00:00:00 +0000</lastBuildDate><atom:link href="//hardware.cameronwalker.nz/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Lenovo ThinkCentre M75q Gen 2</title>
+      <link>//hardware.cameronwalker.nz/2023-09-lenovo-thinkcentre-m75q-gen2/</link>
+      <pubDate>Tue, 19 Sep 2023 00:00:00 +0000</pubDate>
+      
+      <guid>//hardware.cameronwalker.nz/2023-09-lenovo-thinkcentre-m75q-gen2/</guid>
+      <description>Specs Processor: AMD Ryzen™ 5 PRO 4650GE 3.3GHz 6C/12T1 Video Card: AMD Renoir Memory: 8GB DDR4 3200 Storage Drive: 128GB SSD M.2 2242 NVMe TLC Wireless: Intel AX200 2x2ax+BT WW Upgrades Upgraded System RAM from 8GB to 32GB. Installed TEAMGROUP T-Force Zeus DDR4 32GB (2x16GB) 3200MHz CL16 Installed Seagate BarraCuda 5TB 2.5&amp;quot; Internal HDD, mounted on /home. 128G SSD installed with Debian 12. Linux System operates fine as a Linux server.</description>
+    </item>
+    
+    <item>
+      <title>Dell Precision 5540 Mobile Workstation</title>
+      <link>//hardware.cameronwalker.nz/2023-09-dell-precision-5540/</link>
+      <pubDate>Mon, 18 Sep 2023 00:00:00 +0000</pubDate>
+      
+      <guid>//hardware.cameronwalker.nz/2023-09-dell-precision-5540/</guid>
+      <description>Specs Processor: Intel® Core™ Processor i7-9750H, 6C/12T, 12M Cache, 2.60GHz up to 4.5GHz Turbo, 45W Coffee Lake Operating System: Windows 10 Pro (64bit) Eng - Windows 11 Supported Video Card: NVIDIA Quadro T1000 w/4GB GDDR5 Display: 15.6”, UHD 4K (3840 x 2160), IGZO, Touch, 100% Adobe color gamut Memory: 16GB, 1x16GB, DDR4 2666MHz Non-ECC Memory Storage Drive: M.2 512GB PCIe NVMe Class 40 SSD Keyboard: Internal US English Backlit Keyboard Wireless: Intel Dual Band Wireless AC 9260 802.</description>
+    </item>
+    
+    <item>
+      <title>Dell Precision M3800 Workstation</title>
+      <link>//hardware.cameronwalker.nz/2023-09-dell-precision-m3800/</link>
+      <pubDate>Mon, 18 Sep 2023 00:00:00 +0000</pubDate>
+      
+      <guid>//hardware.cameronwalker.nz/2023-09-dell-precision-m3800/</guid>
+      <description>Dell&amp;rsquo;s Precision M3800 is an ultrabook-shaped mobile workstation, combining powerful components with a slim chassis.
+I&amp;rsquo;ve owned this laptop for a number of years now, I rebuilt this unit after being given it by a friend who purchased a newer laptop after a mainboard &amp;amp; internal battery failure. I replaced the motherboard &amp;amp; battery; roughly $300nzd / $180usd is what it cost me, additionally I purchased a sata adapter cable since this didn&amp;rsquo;t come with one included.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,2 @@
+#sudo hugo server -w -d /mnt/t94xr-download/notes/ -b http://t94xr.download/notes/ --appendPort 80
+hugo -w --disableFastRender
